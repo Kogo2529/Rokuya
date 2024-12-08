@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\uegames\\uegame\\rokuya\\rokuyaan\\plugins\\vrm4u\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vrm4umisc\\module.vrm4umisc.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\uegames\\uegame\\rokuya\\rokuyaan\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\uegames\\uegame\\rokuya\\rokuyaan\\plugins\\vrm4u\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vrm4umisc\\definitions.vrm4umisc.h",
+            "f:\\uegames\\uegame\\rokuya\\rokuyaan\\plugins\\vrm4u\\source\\vrm4umisc\\private\\vrm4umisc.cpp",
+            "f:\\uegames\\uegame\\rokuya\\rokuyaan\\plugins\\vrm4u\\source\\vrm4umisc\\private\\vrm4umisc.h",
+            "f:\\uegames\\uegame\\rokuya\\rokuyaan\\plugins\\vrm4u\\source\\vrm4umisc\\private\\vrm4umisclog.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
